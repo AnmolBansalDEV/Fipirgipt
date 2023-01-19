@@ -1,6 +1,28 @@
 .logo{
     width: 20%;
 }
+.footer-img{
+  width: 100%;
+}
+.soci{
+  display: flex;
+  margin-top: 30px;
+  align-items: center;
+  justify-content: space-between;
+}
+.soci-icon{
+  width: 30px;
+}
+.soci-link{
+  color: inherit;
+}
+.achievements-slider{
+  display: flex;
+}
+/* .footer-div{
+  display: flex;
+  align-items: center;
+} */
 .uday-hero-cover{
     width: 140%;
 }
