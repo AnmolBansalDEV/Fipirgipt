@@ -19,10 +19,10 @@
 .achievements-slider{
   display: flex;
 }
-/* .footer-div{
-  display: flex;
-  align-items: center;
-} */
+.team-image{
+  object-fit: cover;
+  height: 12.5rem;
+}
 .uday-hero-cover{
     width: 140%;
 }
